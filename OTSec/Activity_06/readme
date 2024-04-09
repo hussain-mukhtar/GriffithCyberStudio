@@ -1,1 +1,2 @@
 BeaconMalware.py mimics the behaviour of a Beacon Malware for Threat Hunting Activity.
+GenModbus.sh mimic the behaviour of an HMI continuosly quering the state of devices.
